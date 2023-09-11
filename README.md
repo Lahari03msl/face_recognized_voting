@@ -23,7 +23,13 @@ If the user is Authorized it redirects to voting page
 Once the vote is casted the vote is beenstored in excel sheet.
 ![image](https://github.com/Lahari03msl/face_rec/assets/119775037/026447a1-1a8c-4158-8c3c-1880e83ec849)
 
-
-
+--TO RUN THE CODE:
+--Clone the repository
+--Under attendance look out for app.py and run the file using the code -- streamlit run app.py
+--Also run the attendance.py file -- streamlit run attendance.py
+--And run voting.py-- streamlit run voting.py
+--Now try to copy the url of voting.py page and update it in the attendance.py 
+--
+Happy coding..!
 
 
