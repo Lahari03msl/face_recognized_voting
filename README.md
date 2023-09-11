@@ -25,9 +25,17 @@ Once the vote is casted the vote is beenstored in excel sheet.
 
 --TO RUN THE CODE:
 --Clone the repository
+
+
 --Under attendance look out for app.py and run the file using the code -- streamlit run app.py
+
+
 --Also run the attendance.py file -- streamlit run attendance.py
+
+
 --And run voting.py-- streamlit run voting.py
+
+
 --Now try to copy the url of voting.py page and update it in the attendance.py 
 --
 Happy coding..!
