@@ -5,6 +5,8 @@ The electoral system has experienced many efficient changes within the past few 
 Key Words: excel, labeled pictures, CNN, Streamlit modules, OpenCv
 
 PROPOSED SYSTEM:
+
+
 ![image](https://github.com/Lahari03msl/face_rec/assets/119775037/5bb704b6-53b8-46c5-893c-9ed8f23e7891)
 The input is an image of a person's face, which ispassed through the face detection component to locate the face. The feature extraction component extracts features from the face, which are used to match the person's identity with a database. The output is the identity of the person, which is then used for accesscontrol purposes
 
