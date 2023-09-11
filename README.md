@@ -1,4 +1,4 @@
-#Facial Recognition for Electorial
+#Facial_Recognition
 
 INTRODUCTION:
 The electoral system has experienced many efficient changes within the past few decades. India, still directs its races utilizing either Secret Ballet Voting (SBV) or Electronic Voting Machines (EVM), the two of which include significant expenses, physical work and are wasteful.In the existing system, it verifies only identification proof, which made more chances for fake voting. So to overcome this problem, web-based smart voting system along with facial detection and recognition approach is used.Individual voters will be deemed eligibleto vote once their identities have been verified.
