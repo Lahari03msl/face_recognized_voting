@@ -1,1 +1,2 @@
-# face_rec
+Face recognization for electorial
+
